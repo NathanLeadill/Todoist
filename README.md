@@ -1,1 +1,1 @@
-Todoist
+Todo App
